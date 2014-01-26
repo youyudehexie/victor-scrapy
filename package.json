@@ -1,0 +1,21 @@
+{
+  "name": "victor-scrapy",
+  "version": "0.0.1",
+  "description": "victor scrapy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/youyudehexie/victor-scrapy.git"
+  },
+  "keywords": [
+    "scrapy"
+  ],
+  "author": "youyudehexie",
+  "license": "mit",
+  "bugs": {
+    "url": "https://github.com/youyudehexie/victor-scrapy/issues"
+  }
+}
