@@ -17,5 +17,12 @@
   "license": "mit",
   "bugs": {
     "url": "https://github.com/youyudehexie/victor-scrapy/issues"
+  },
+  "dependencies": {
+    "mongoose": "~3.8.5",
+    "async": "~0.2.10",
+    "cheerio": "~0.13.1",
+    "request": "~2.33.0",
+    "underscore": "~1.5.2"
   }
 }
